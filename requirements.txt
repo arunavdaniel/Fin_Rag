@@ -1,0 +1,9 @@
+requests
+html2text
+pandas
+transformers
+gradio
+
+numpy
+google-generativeai
+openai
